@@ -1,4 +1,4 @@
-# Opinionytics
+# Opinionytics Features - Python Version
 
 A simple way to view all the informations about any text out there.
 

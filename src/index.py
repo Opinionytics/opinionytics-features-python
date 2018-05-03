@@ -17,31 +17,31 @@ from watson_developer_cloud.natural_language_understanding_v1 import Features, C
 
 ### Topics Involved Feature Feature
 
-topicsInvolvedPath = "src/features/topicsInvolved"
+topicsInvolvedPath = "features/topicsInvolved"
 sys.path.insert(0, topicsInvolvedPath)
 from topicsInvolved import *
 
 ### Summary Feature
 
-summaryPath = "src/features/summary"
+summaryPath = "features/summary"
 sys.path.insert(0, summaryPath)
 from summary import *
 
 ### Positivity Feature
 
-positivityPath = "src/features/positivity"
+positivityPath = "features/positivity"
 sys.path.insert(0, positivityPath)
 from positivity import *
 
 ### Subjectivity Feature
 
-subjectivityPath = "src/features/subjectivity"
+subjectivityPath = "features/subjectivity"
 sys.path.insert(0, subjectivityPath)
 from subjectivity import *  
 
 ### Popularity Feature
 
-popularityPath = "src/features/popularity"
+popularityPath = "features/popularity"
 sys.path.insert(0, popularityPath)
 from popularity import *
 
@@ -87,7 +87,7 @@ SENTENCES_PERCENTAGE = 15
 
 ### JSON File
 
-_jsonFile = 'src/resources/random_texts.json'
+_jsonFile = 'resources/random_texts.json'
 _jsonData = open(_jsonFile, 'r')
 data = json.load(_jsonData)
 

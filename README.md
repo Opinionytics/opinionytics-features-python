@@ -32,10 +32,10 @@ pip3 install --upgrade pytrends
 
 ```python3 index.py```
 
-* [__Charlotte Delfosse__](https://github.com/cdel2)
-* [__Aina Rasoldier__](https://github.com/ainar)
-* [__Joan Capelle Gracia__](https://github.com/zas97)
-* [__Pierre Faure-Giovagnoli__](https://github.com/PierreFG)
-* [__Mohamed Amine Boulouma__](https://github.com/aminemboulouma)
+- [**Mohamed Amine Boulouma**](https://github.com/aminemboulouma)
+- [**Joan Capelle Gracia**](https://github.com/zas97)
+- [**Charlotte Delfosse**](https://github.com/cdel2)
+- [**Pierre Faure-Giovagnoli**](https://github.com/PierreFG)
+- [**Aina Rasoldier**](https://github.com/ainar)
 
 ### [All the team in action](https://www.youtube.com/watch?v=e_a-t3BJk8I&t=18s)
